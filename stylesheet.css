@@ -293,6 +293,10 @@ input {
   font-size: 14px;
   font-weight: bold;
 }
+.contact-me button:hover {
+  background-color: #ff0000;
+  transition: all ease 0.5s;
+}
 footer p {
   font-family: calibri;
 }
